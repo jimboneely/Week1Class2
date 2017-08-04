@@ -1,0 +1,32 @@
+	h1{
+		background-color: orange;
+		margin-left: 15px;
+	}
+
+	h2{
+		text-decoration: underline;
+	}
+
+	img{
+		margin-left: 50px;
+		background-color: blue;
+		/*makes the image occupy it's entire row. Text will be pushed to the next row*/
+		display: block;
+	}
+
+	p {
+		font-size: 30px;
+		margin-left: 25px;
+		font-weight: bold;
+	}
+
+	#div1
+	{
+		background-color: green;
+	}
+
+	.class1
+	{
+		font-size: 18px;
+		background-color: red;
+	}
